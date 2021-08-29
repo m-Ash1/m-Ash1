@@ -11,11 +11,11 @@
          <br/><br/>
          <a href="#"></a>
          <br/><br/>
-         - 🌱 I’m currently learning **Front-end development** -
+         - 🌱 I’m currently learning Front-end development -
          <br/>
-         - 💬 Ask me about ###HTML, CSS -
+         - 💬 Ask me about HTML, CSS -
          <br/>
-         - 📫 How to reach me **mahmoudashraf2702@gmail.com** -
+         - 📫 How to reach me mahmoudashraf2702@gmail.com -
          <br/>
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-Ash1&theme=radical&hide_border=true" />
