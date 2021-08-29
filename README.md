@@ -33,7 +33,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-ash1&theme=radical" alt="m-ash1" /></p>
  -->
 
-<h2 align="center">👋 Hello! Welcome to my Github, I'm Ash!</h2>
+<!-- <h2 align="center">👋 Hello! Welcome to my Github, I'm Ash!</h2>
 <img src="https://i.imgur.com/na8TlqA.gif" width="100%"/>
 <p align="center">
 <table align="center">
@@ -70,7 +70,7 @@
    </tr>
 </table>
 </p>
-
+ -->
 <!-- Mash  -->
 
 <h2 align="center">👋 Hello! Welcome to my Github, I'm Mashwishi!</h2>
@@ -83,7 +83,7 @@
          <img align="center" src="https://i.imgur.com/YrZ0vTp.gif" width="50%"/></a><br/>
          <a href="httpshttps://ko-fi.com/m_ashraffarouk"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
          <br/><br/>
-          
+          <a href="https://discord.gg/WAh8eaF2Qq"><img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner2"/></a>
          <br/><br/>
          - 🔭 I’m currently working on <strong><a href="https://menugoph.com/">MenuGo Philippines</a></strong> -
          <br/>
