@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-Ash1&theme=radical) -->
-<h1 align="center">Hi 👋, I'm Mahmoud Ashraf</h1>
+<!-- <h1 align="center">Hi 👋, I'm Mahmoud Ashraf</h1>
 <h3 align="center">Hello my name is Ash. glad to meet ya I am an ambitious person who strives to discover new things every day. I really can't wait to discover this whole world. Ah don't bother. The important thing is that I started learning web design early this year and want to improve my skills in it by practicing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-ash1&label=Profile%20views&color=0e75b6&style=flat" alt="m-ash1" /> </p>
@@ -31,10 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-Ash1&theme=radical" alt="m-ash1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-ash1&theme=radical" alt="m-ash1" /></p>
+ -->
 
-<!--  -->
-
-<h2 align="center">👋 Hello! Welcome to my Github, I'm Mashwishi!</h2>
+<h2 align="center">👋 Hello! Welcome to my Github, I'm Ash!</h2>
 <img src="https://i.imgur.com/na8TlqA.gif" width="100%"/>
 <p align="center">
 <table align="center">
@@ -44,11 +43,11 @@
          <img align="center" src="https://i.imgur.com/YrZ0vTp.gif" width="50%"/></a><br/>
          <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
          <br/><br/>
-            <a href="https://discord.gg/TS9Xq2zE"><img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner2"/></a>
+        
          <br/><br/>
          - 🌱 I’m currently learning **Front-end development** -
          <br/>
-         - 👨‍💻 All of my projects are available at [https://www.behance.net/m_ashraffarouk](https://www.behance.net/m_ashraffarouk) -
+         - 👨‍💻 All of my projects are available at ![Behance](https://www.behance.net/m_ashraffarouk](https://www.behance.net/m_ashraffarouk) -
          <br/>
          - 💬 Ask me about **HTML, CSS** -
          <br/>
@@ -64,7 +63,7 @@
          <br/><br/><br/>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=m-Ash1&theme=radical&hide_border=true" />   
          <br/><br/><br/>
-         <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=m-Ash1&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/><br/><br/><br/>
+<!--          <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=m-Ash1&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/><br/><br/><br/> -->
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-Ash1&theme=radical&show_icons=true&hide_border=true" />
          <br/><br/><br/>         
       </td>
