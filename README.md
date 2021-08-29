@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-Ash1 &theme=radical)
 <!--
 **m-Ash1/m-Ash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
