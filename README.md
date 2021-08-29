@@ -78,22 +78,22 @@
 <table align="center">
    <tr>
       <td>
-         <p align="center">    
+          <p align="center">    
          <img align="center" src="https://i.imgur.com/YrZ0vTp.gif" width="50%"/></a><br/>
-         <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
+         <a href="https://ko-fi.com/m_ashraffarouk"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
          <br/><br/>
-            <a href="https://discord.gg/WAh8eaF2Qq"><img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner2"/></a>
+        
          <br/><br/>
-         - 🔭 I’m currently working on <strong><a href="https://menugoph.com/">MenuGo Philippines</a></strong> -
+         - 🌱 I’m currently learning **Front-end development** -
          <br/>
-         - 🌱 I’m currently learning <strong>C++ and Algorithms</strong> -
+         - 👨‍💻 All of my projects are available at ![Behance](https://www.behance.net/m_ashraffarouk](https://www.behance.net/m_ashraffarouk) -
          <br/>
-         - 💬 Ask me about <strong>Java, PHP, CSS and C#</strong> -
+         - 💬 Ask me about **HTML, CSS** -
          <br/>
-         - 📫 How to reach me: <a href="https://twitter.com/Mashwishi">@Mashwishi</a> on Twitter -
+         - 📫 How to reach me **mahmoudashraf2702@gmail.com** -
          <br/>
          <p align="center">                     
-             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=radical&hide_border=true" />
+             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-Ash1&theme=radical&hide_border=true" />
          </p>  
       </td>
       <td>
