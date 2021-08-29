@@ -9,7 +9,7 @@
          <img align="center" src="https://i.imgur.com/YrZ0vTp.gif" width="50%"/></a><br/>
          <a href="https://ko-fi.com/m_ashraffarouk"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
          <br/><br/>
-         <a href="https://discord.gg/WAh8eaF2Qq"><img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner2"/></a>
+         <a href="#"><img align="center" src="#"/></a>
          <br/><br/>
          - 🌱 I’m currently learning **Front-end development** -
          <br/>
