@@ -44,7 +44,7 @@
          <img align="center" src="https://i.imgur.com/YrZ0vTp.gif" width="50%"/></a><br/>
          <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
          <br/><br/>
-            <a href="https://discord.gg/WAh8eaF2Qq"><img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner2"/></a>
+            <a href="https://discord.gg/TS9Xq2zE"><img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner2"/></a>
          <br/><br/>
          - 🌱 I’m currently learning **Front-end development** -
          <br/>
@@ -60,7 +60,7 @@
       </td>
       <td>
       <br/><br/>
-      <h2 align="center">📊 Mashwishi's Github Statistics 📊 </h2>   
+      <h2 align="center"> 📊 Ash's Github Statistics 📊 </h2>   
          <br/><br/><br/>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=m-Ash1&theme=radical&hide_border=true" />   
          <br/><br/><br/>
