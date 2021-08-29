@@ -70,6 +70,7 @@
    </tr>
 </table>
 </p>
+
 <!-- Mash  -->
 
 <h2 align="center">👋 Hello! Welcome to my Github, I'm Mashwishi!</h2>
@@ -78,22 +79,22 @@
 <table align="center">
    <tr>
       <td>
-          <p align="center">    
+         <p align="center">    
          <img align="center" src="https://i.imgur.com/YrZ0vTp.gif" width="50%"/></a><br/>
-         <a href="https://ko-fi.com/m_ashraffarouk"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
+         <a href="httpshttps://ko-fi.com/m_ashraffarouk"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
          <br/><br/>
-        
+          
          <br/><br/>
-         - 🌱 I’m currently learning **Front-end development** -
+         - 🔭 I’m currently working on <strong><a href="https://menugoph.com/">MenuGo Philippines</a></strong> -
          <br/>
-         - 👨‍💻 All of my projects are available at ![Behance](https://www.behance.net/m_ashraffarouk](https://www.behance.net/m_ashraffarouk) -
+         - 🌱 I’m currently learning <strong>C++ and Algorithms</strong> -
          <br/>
-         - 💬 Ask me about **HTML, CSS** -
+         - 💬 Ask me about <strong>Java, PHP, CSS and C#</strong> -
          <br/>
-         - 📫 How to reach me **mahmoudashraf2702@gmail.com** -
+         - 📫 How to reach me: <a href="https://twitter.com/Mashwishi">@Mashwishi</a> on Twitter -
          <br/>
          <p align="center">                     
-             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-Ash1&theme=radical&hide_border=true" />
+             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=radical&hide_border=true" />
          </p>  
       </td>
       <td>
@@ -109,4 +110,5 @@
    </tr>
 </table>
 </p>
+
 
