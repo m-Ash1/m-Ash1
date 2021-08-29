@@ -1,11 +1,9 @@
-### Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-Ash1&theme=radical)
+<!-- ### Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-Ash1&theme=radical) -->
 <h1 align="center">Hi 👋, I'm Mahmoud Ashraf</h1>
 <h3 align="center">Hello my name is Ash. glad to meet ya I am an ambitious person who strives to discover new things every day. I really can't wait to discover this whole world. Ah don't bother. The important thing is that I started learning web design early this year and want to improve my skills in it by practicing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-ash1&label=Profile%20views&color=0e75b6&style=flat" alt="m-ash1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-ash1" alt="m-ash1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/m_ashraffarouk" target="blank"><img src="https://img.shields.io/twitter/follow/m_ashraffarouk?logo=twitter&style=for-the-badge" alt="m_ashraffarouk" /></a> </p>
 
@@ -20,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m_ashraffarouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_ashraffarouk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahmoud ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud ashraf" height="30" width="40" /></a>
-<a href="https://fb.com/mahmoud a. farouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud a. farouk" height="30" width="40" /></a>
-<a href="https://dribbble.com/mahmoud ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mahmoud ashraf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoudashraf27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudashraf27" height="30" width="40" /></a>
+<a href="https://fb.com/mashraf.farouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mashraf.farouk" height="30" width="40" /></a>
+<a href="https://dribbble.com/m_ashraffarouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="m_ashraffarouk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-ash1&show_icons=true&locale=en" alt="m-ash1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-ash1&" alt="m-ash1" /></p>
+
