@@ -13,7 +13,7 @@
          <br/><br/>
          - 🌱 I’m currently learning **Front-end development** -
          <br/>
-         - 💬 Ask me about **HTML, CSS** -
+         - 💬 Ask me about ###HTML, CSS -
          <br/>
          - 📫 How to reach me **mahmoudashraf2702@gmail.com** -
          <br/>
