@@ -1,5 +1,5 @@
 
-<h2 align="center">👋 Hello! Welcome to my Github, I'm Ash!</h2>
+ <h2 align="center">👋 Hello! Welcome to my Github, I'm Ash!</h2>
 <img src="https://i.imgur.com/na8TlqA.gif" width="100%"/>
 <p align="center">
 <table align="center">
