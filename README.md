@@ -11,7 +11,7 @@
          <br/><br/>
          <a href="#"></a>
          <br/><br/>
-         - 🌱 I’m currently learning: Front-end development -
+         - 🌱 I’m currently learning: JavaScript -
          <br/>
          - 💬 Ask me about: HTML, CSS -
          <br/>
