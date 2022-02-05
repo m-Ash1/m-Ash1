@@ -6,11 +6,11 @@
    <tr>
       <td>
          <p align="center">    
-         - 🌱 I’m currently learning: JavaScript -
+         - I’m currently learning: JavaScript -
          <br/>
-         - 💬 Ask me about: HTML, CSS, Data Structure, Algorithms -
+         - Ask me about: HTML, CSS, Data Structure, Algorithms -
          <br/>
-         - 📫 How to reach me: mahmoudashraf2702@gmail.com -
+         - How to reach me: mahmoudashraf2702@gmail.com -
          <br/>
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-Ash1&theme=radical&hide_border=true" />
