@@ -8,7 +8,7 @@
          <p align="center">    
          - I’m currently learning: JavaScript -
          <br/>
-         - Ask me about: HTML, CSS, Data Structure, Algorithms -
+         - Ask me about: HTML, CSS, JS, OOP Data Structure, Algorithms -
          <br/>
          - How to reach me: mahmoudashraf2702@gmail.com -
          <br/>
