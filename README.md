@@ -10,7 +10,7 @@
          <br/>
          - Ask me about: HTML, CSS, JS, OOP Data Structure, Algorithms -
          <br/>
-         - How to reach me: mahmoudashraf2702@gmail.com -
+         - How to reach me: mashraffarouk2702@gmail.com -
          <br/>
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-Ash1&theme=radical&hide_border=true" />
