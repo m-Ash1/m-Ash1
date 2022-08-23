@@ -1,4 +1,4 @@
--  Hi, I’m @m-ash1
+-  Hi, I’m ash
 -  I’m interested in ... front-end development
 -  I’m currently learning ... how to expand my coding horizons
 -  You can contact me on email
