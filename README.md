@@ -1,5 +1,5 @@
--  Hi, I’m ash
--  I’m interested in ... front-end development
--  I’m currently learning ... how to expand my coding horizons
--  You can contact me on email
--  Email: mashraffarouk2702@gmail.com
+  Hi, I’m ash <br>
+  I’m a front-end developer <br>
+  I’m currently working on expanding my coding horizons <br>
+  You can contact me on my email below so we can do some amazing things together <br>
+  Email: mashraffarouk2702@gmail.com <br>
